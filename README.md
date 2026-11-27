@@ -11,8 +11,8 @@
 
 ### 🔭 What I'm working on
 
-- **Morphic** · turns an existing website into a native iOS and Android app using AI, then lets the owner refine the app by chatting with it. Next.js, TypeScript, Supabase (Postgres with row-level security), React Native / Expo. *In development, private repo.*
-- **SmartTrade AI** · a trading journal with AI coaching. Its engine, **Lotus AI**, is an AI pipeline I built that uses reinforcement learning. [Live demo](https://smarttrade-pi.vercel.app)
+- **[Morphic](https://github.com/Emirsadi101470121/morphic-showcase)** · turns an existing website into a native iOS and Android app using AI, then lets the owner refine the app by chatting with it. Next.js, TypeScript, Supabase (Postgres with row-level security), React Native / Expo. *In development; the code is private.*
+- **[SmartTrade AI](https://github.com/Emirsadi101470121/smarttrade-ai-showcase)** · a trading journal with AI coaching. Its engine, **Lotus AI**, is an AI pipeline I built that uses reinforcement learning. [Live demo](https://smarttrade-pi.vercel.app)
 - **VPN cryptography** · a privacy-focused VPN built around modern cryptography, written in Go.
 - **CTF competitions** with my team · 13th place at WolvCTF 2026.
 
